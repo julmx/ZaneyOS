@@ -3,6 +3,8 @@
     audacity
     discord
     nodejs
-    obs-studio
+    #obs-studio
+    stremio
+    libreoffice
   ];
 }

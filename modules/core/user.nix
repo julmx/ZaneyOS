@@ -35,6 +35,7 @@ in {
       "networkmanager"
       "scanner"
       "wheel"
+      "audio"
     ];
     shell = pkgs.zsh;
     ignoreShellProgramCheck = true;
