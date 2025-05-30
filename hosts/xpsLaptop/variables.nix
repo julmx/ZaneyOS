@@ -29,8 +29,11 @@
   stylixImage = ../../wallpapers/Rainnight.jpg;
 
   # Set Waybar
-  # Includes alternates such as waybar-curved.nix & waybar-ddubs.nix
-  waybarChoice = ../../modules/home/waybar/waybar-simple.nix;
+  #  Available Options:
+  #waybarChoice = ../../modules/home/waybar/waybar-simple.nix;
+  #waybarChoice = ../../modules/home/waybar/waybar-ddubs.nix;
+  #waybarChoice = ../../modules/home/waybar/waybar-curved.nix;
+  waybarChoice = ../../modules/home/waybar/Jerry-waybar.nix;
 
   # Set Animation style
   # Available options are:
